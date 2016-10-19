@@ -36,4 +36,4 @@ TODO: compare with Data::Compare + sorting.
 
 =head1 SEE ALSO
 
-L<Bencher::Scenario::HashBuilding>
+L<Bencher::Scenario::SetComparison>
